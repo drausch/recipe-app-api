@@ -1,2 +1,2 @@
 # recipe-app-api
-Reco[e API project
+Recipe API project
